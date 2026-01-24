@@ -1,2 +1,0 @@
-# BibleCzech
-BibleCzech
